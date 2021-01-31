@@ -1,4 +1,5 @@
-# Terminal-Password-Manager
+# Password Manager
+### Python Terminal Application
 I have created a password manager for my personal use in Python. It just reads/save data inside a JSON file.
 It uses only default Python dependencies:
 - os
