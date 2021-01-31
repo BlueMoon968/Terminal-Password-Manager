@@ -4,7 +4,6 @@ It uses only default Python dependencies:
 - os
 - socket
 - json 
-- time
 
 ## How to excute
 Open a terminal instance inside the code directory and type:
