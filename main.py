@@ -2,7 +2,7 @@
 # PASSWORD MANAGER
 # Author: Luca Mastroianni
 # Description: Password Manager developed for my personal use.
-# It read and parse info from a JSON dictionary. 
+# It reads and save data from a JSON dictionary. 
 #
 # LICENSE: MIT
 #====================================================================
