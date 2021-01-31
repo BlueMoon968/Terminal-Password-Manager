@@ -10,7 +10,6 @@
 import os
 import socket
 import json
-import time
 
 #============================
 # ENTRY POINT
