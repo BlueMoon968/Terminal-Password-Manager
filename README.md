@@ -5,6 +5,8 @@ It uses only default Python dependencies:
 - socket
 - json 
 
+Developed with **Python v3.8.6**.
+
 ## How to excute
 Open a terminal instance inside the code directory and type:
 ```shell
